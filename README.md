@@ -7,7 +7,7 @@ A dynamic and visually engaging dashboard designed to analyze mobile phone sales
 ---
 
 ## 2. Purpose  
-Interactive Power BI dashboard analyzing mobile sales data across cities, months, brands, and payment methods. Highlights include total sales (769M), customer ratings, top models, and regional insights—built to track performance, uncover trends, and support data-driven decisions
+Interactive Power BI dashboard analyzing mobile sales data across cities, months, brands, and payment methods. Highlights include total sales (769M), customer ratings, top models, and regional insights built to track performance, uncover trends, and support data-driven decisions
 ---
 
 ## 3. Tech Stack  
