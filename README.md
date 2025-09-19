@@ -1,12 +1,12 @@
 # 📱 Mobile Sales Insights Dashboard  
 
-## 1. Project Title / Headline  
+## 1. Project Title 
 **Mobile Sales Insights Dashboard – An Interactive Power BI Report for Smartphone Market Trends**  
 A dynamic and visually engaging dashboard designed to analyze mobile phone sales, customer ratings, and payment trends across different cities in India.  
 
 ---
 
-## 2. Short Description / Purpose  
+## 2. Purpose 
 This dashboard provides a **comprehensive overview of mobile sales performance** across multiple brands, cities, and payment methods.  
 It is built to help business stakeholders, sales managers, and analysts track key performance metrics, uncover sales trends, and optimize customer engagement strategies.  
 
@@ -17,21 +17,12 @@ The dashboard was built using the following tools and technologies:
 
 -  **Power BI Desktop** – Core data visualization and dashboard building platform.  
 -  **Power Query** – For data cleaning, shaping, and preprocessing.  
--  **DAX (Data Analysis Expressions)** – Used to create calculated measures such as Avg Qty, Avg Price, and Customer Rating.  
--  **Data Modeling** – Relationships built between transactional, sales, and rating datasets for cross-filtered analysis.  
+-  **DAX (Data Analysis Expressions)** – Used to create calculated measures such as Avg Qty, Avg Price, and Customer Rating.    
 -  **File Format** – `.pbix` for development and `.png` for preview sharing.  
 
 ---
 
-## 4. Data Source  
-**Source:** Internal mobile sales dataset (simulated).  
-
-- Contains transaction-level data including **brand, model, sales amount, quantity, city, payment method, and customer ratings**.  
-- Covers multiple mobile brands such as **Apple, Samsung, OnePlus, Vivo, and Xiaomi**.  
-
----
-
-## 5. Features / Highlights  
+## 4. Features  
 
 ### • Business Problem  
 Mobile phone retailers face challenges in **understanding sales distribution across cities, identifying top-performing brands/models, and analyzing customer satisfaction trends**.  
@@ -65,4 +56,4 @@ To deliver a **single interactive platform** that:
 
 ## 6. Screenshots / Demos  
  **Dashboard Preview:**  
-![Mobile Sales Dashboard Preview]()  
+![Mobile Sales Dashboard Preview](https://github.com/adill07/mobile-sales-data-dashboard-powerbi/blob/main/mobile-sales-dashboard-analysis.png)  
