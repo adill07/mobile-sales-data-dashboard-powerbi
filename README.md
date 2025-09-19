@@ -6,10 +6,8 @@ A dynamic and visually engaging dashboard designed to analyze mobile phone sales
 
 ---
 
-## 2. Purpose 
-This dashboard provides a **comprehensive overview of mobile sales performance** across multiple brands, cities, and payment methods.  
-It is built to help business stakeholders, sales managers, and analysts track key performance metrics, uncover sales trends, and optimize customer engagement strategies.  
-
+## 2. Purpose  
+Interactive Power BI dashboard analyzing mobile sales data across cities, months, brands, and payment methods. Highlights include total sales (769M), customer ratings, top models, and regional insights—built to track performance, uncover trends, and support data-driven decisions
 ---
 
 ## 3. Tech Stack  
